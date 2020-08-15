@@ -8,9 +8,9 @@
 ### Backend
 
 ### Devops
->  [Google Cloud Platform](https://learndigital.withgoogle.com/digitalgarage)
->  [AWS cloud platform](https://www.aws.training)
->  [Azure cloud platform](https://docs.microsoft.com/en-us/learn/azure/)
+- >  [Google Cloud Platform](https://learndigital.withgoogle.com/digitalgarage)
+- >  [AWS cloud platform](https://www.aws.training)
+- >  [Azure cloud platform](https://docs.microsoft.com/en-us/learn/azure/)
 ### Big Data
 >  [Machine Learning Engineer Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
 ### Theory Part
