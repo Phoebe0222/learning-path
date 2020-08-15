@@ -1,3 +1,5 @@
+# learning-path
+=======
 # Learning Path
 
 ## Reference links
@@ -6,10 +8,14 @@
 ### Backend
 
 ### Devops
-
+>  [Google Cloud Platform](https://learndigital.withgoogle.com/digitalgarage)
+>  [AWS cloud platform](https://www.aws.training)
+>  [Azure cloud platform](https://docs.microsoft.com/en-us/learn/azure/)
 ### Big Data
+>  [Machine Learning Engineer Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
+### Theory Part
 
->    [Machine Learning Engineer Learning Path](https://medium.com/machine-learning-world/learning-path-for-machine-learning-engineer-a7d5dc9de4a4)
+### Practice Part
 
 ## Arributes for eah item in different sections
     * Patterns
@@ -27,4 +33,6 @@
     3. Devops
         a. 
     4. Big Data
-        a. 
+        a. Theory Part
+        b. Practice Part
+
