@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # learning-path
 =======
 # Learning Path
@@ -36,4 +35,4 @@
     4. Big Data
         a. Theory Part
         b. Practice Part
->>>>>>> Stashed changes
+
